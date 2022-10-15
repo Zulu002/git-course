@@ -1,2 +1,2 @@
 alert('Hello Git')
-consol.log('test 2')
+consol.log('test 2 !!!!!!!!!')
